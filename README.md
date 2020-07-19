@@ -8,6 +8,6 @@ CVPR 2020.
 
 ---
 
-![A selfie of mine](img/selfie-big.png)👇
+![A selfie of mine](img/selfie-big.png)
 ![Generated](img/out.gif)
 
